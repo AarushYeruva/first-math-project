@@ -7,6 +7,6 @@ if meal == "breakfast":
 elif meal == "lunch":
     print("which sandwich? ")
 elif meal == "dinner":
-    print("How about soup?")
+    print("How about bread?")
 else:
     print("That is not a valid response")
